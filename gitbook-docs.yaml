@@ -1,0 +1,12 @@
+$schema: https://api.gitbook.com/gitbook-docs.yaml
+version: 1
+site:
+  title: Foundry 5 Insights
+  structure:
+    - type: space
+      key: space-insights
+      title: Foundry 5 Insights
+      path: insights
+      default: true
+      content:
+        directory: ./docs
